@@ -35,14 +35,7 @@
             },
             "jar": "./danmu.jar"
         },
-        {
-      "name": "直播",
-      "boot": false,
-      "playerType": 1,
-      "url": "./zhi.json",
-      "epg": "https://live.fanmingming.com/e.xml",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+        
         {
             "key": "韩小圈",
             "name": "韩小圈",
