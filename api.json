@@ -56,7 +56,8 @@
                 "ratio": 1.597
             },
             "jar": "./danmu.jar"
-        }， {
+        }，
+	    {
 			"key":"Youtube",
 			"name":"Youtube丨需要魔法",
 			"type":3,
