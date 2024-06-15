@@ -346,6 +346,34 @@
             "changeable": 1,
             "ext": "https://v.aikanbot.com"
         },
+	     {
+            "key": "NO视频",
+            "name": "🐰NO视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "ext": {
+                "请求头": "手机",
+                "主页url": "https://www.dgjiawu.com/",
+                "简介": "",
+                "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "播放链接": "href=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "",
+                "搜索url": "",
+                "嗅探词": ".m3u8#https://m3u.hw8.live/share/#index.m3u8",
+                "线路数组": "href=\"javascript:;\"&&</li>",
+                "线路标题": "✨神荼专享线路✨+class=\"v*\">&&</a[排序:线路2>>]",
+                "播放数组": "class=\"v*-div&&</div>",
+                "播放列表": "class=\"btn btn-primary btn-primary-ph&&</a",
+                "播放标题": ">&&</a",
+                "倒序": "0",
+                "分类": "电影$5738#电视剧$5749#动漫$5767#综艺$5758#你懂的$5748",
+                "分类url": "https://www.dgjiawu.com/mo-1zxgt/{cateId}/1/0/0/0/0/{catePg}[https://www.dgjiawu.com/mo-1zxgt/{cateId}/1];;RC"
+            }
+        },
         {
             "key": "四九资源",
             "name": "🐰四九资源",
