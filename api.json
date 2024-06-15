@@ -16,8 +16,8 @@
             "name": "vx小程序纷传✅搜索软件分享阁",
             "type": 3,
             "api": "csp_WebIV",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 0
         },
         {
@@ -150,17 +150,7 @@
             "filterable": 1,
             "ext": "https://www.czys.top/"
         },
-       {
-            "key":"荐片纯净",
-            "name":"🐰荐片微广",
-            "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "type":3,
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "playerType":"1",
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-        },
+       
         {
             "key": "低端影视",
             "name": "🐰低端影视",
