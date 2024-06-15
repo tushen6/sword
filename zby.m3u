@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="http://127.0.0.1/diyp/epg.php"
-#EXTINF:-1 tvg-id="" tvg-name="抖音姐姐热舞" tvg-logo="" group-title="欣赏频道",抖音姐姐热舞
-http://159.75.85.63:35455/douyu/10262663
 #EXTINF:-1 tvg-id="" tvg-name="国语译制电影" tvg-logo="" group-title="欣赏频道",国语译制电影
 http://159.75.85.63:35455/douyu/2436390
 #EXTINF:-1 tvg-id="" tvg-name="第一滴血全集" tvg-logo="" group-title="欣赏频道",第一滴血全集
