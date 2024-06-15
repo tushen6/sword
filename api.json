@@ -11,6 +11,15 @@
             "api": "csp_Douban",
             "searchable": 0
         },
+	    {
+            "key": "看看影视",
+            "name": "vx小程序纷传✅搜索软件分享阁",
+            "type": 3,
+            "api": "csp_WebIV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
         {
             "key": "云盘登录",
             "name": "云盘登录",
@@ -37,7 +46,7 @@
         },
           {
 			"key":"Youtube",
-			"name":"Youtube",
+			"name":"Youtube丨魔法观看",
 			"type":3,
 			"api": "csp_Youtube",
 			"searchable": 1,
@@ -141,7 +150,17 @@
             "filterable": 1,
             "ext": "https://www.czys.top/"
         },
-       
+       {
+            "key":"荐片纯净",
+            "name":"🐰荐片微广",
+            "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "type":3,
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "playerType":"1",
+            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+        },
         {
             "key": "低端影视",
             "name": "🐰低端影视",
@@ -658,7 +677,7 @@
             "type": 3,
             "api": "csp_AppXY",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 0
         },
         {
@@ -668,6 +687,33 @@
             "api": "csp_Wexduanjuvip",
             "searchable": 1,
             "changeable": 1
+        },
+	    {
+            "key": "喵次元",
+            "name": "😸喵次元",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/tushen6/JS/main/喵次元.js"
+        },
+        {
+            "key": "暮暮动漫",
+            "name": "🐰暮暮动漫",
+            "type": 3,
+            "api": "csp_WebMuTeFun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.mutean.com"
+        },
+        {
+            "key": "动漫巴士",
+            "name": "🐰动漫巴士",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/动漫巴士.json"
         },
         {
             "key": "樱花动漫",
