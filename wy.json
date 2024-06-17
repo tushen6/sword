@@ -100,7 +100,7 @@
     "key":"央视剧场",
         "name":"💯央视剧场✅",
         "type":3,
-        "api": "https://vip.123pan.cn/1829447248/6131628",
+        "api": "https://raw.githubusercontent.com/tushen6/lib/main/央视剧场.js",
         "searchable":1,
         "changeable":1, 
         "timeout": 10
@@ -1251,34 +1251,124 @@
         },
         {
             "key": "阿里合集",
-            "name": "🐰阿里｜合集",
+            "name": "阿里｜合集",
             "type": 3,
             "api": "csp_AliShare",
             "searchable": 1,
             "changeable": 0,
             "filterable": 0,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
-            
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "share": "https://raw.githubusercontent.com/tushen6/JS/main/alishare.txt"
             },
             "style": {
                 "type": "list"
             },
             "jar": "./danmu.jar"
         },
- {
+  {
+            "key": "玩偶哥哥",
+            "name": "☁️云盘｜玩偶",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/玩偶哥哥.json"
+        },
+        {
+            "key": "天天开心",
+            "name": "☁️云盘｜开心",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/天天开心.json"
+        },
+        {
+            "key": "土豆网盘",
+            "name": "☁️云盘｜土豆",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/土豆网盘.json"
+        },
+        {
+            "key": "多多影音",
+            "name": "☁️云盘｜多多",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/多多影音.json"
+        },
+        {
+            "key": "云盘搜索",
+            "name": "☁️云盘｜搜索",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/云盘搜索.json"
+        },
+        {
+            "key": "影搜",
+            "name": "☁️云盘｜影搜",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/影搜.json"
+        },
+        {
+            "key": "阿里苏苏",
+            "name": "☁️云盘｜苏苏",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/阿里苏苏.json"
+        },
+        {
+            "key": "云盘论坛",
+            "name": "☁️云盘｜论坛",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/云盘论坛.json"
+        },
+        {
+            "key": "云盘资源",
+            "name": "☁️云盘｜资源",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/云盘资源.json"
+        },
+         {
       "key": "小优玩我",
-      "name": "🐰小优玩我丨4K高清",
+      "name": "📡小优玩我丨4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://vip.123pan.cn/1829447248/fx/kaixin.json"
+      "ext": "https://raw.githubusercontent.com/tushen6/lib/main/kaixin.json"
     },
         {
             "key": "Upyunso",
-            "name": "🐰云盘｜云搜",
+            "name": "☁️云盘｜云搜",
             "type": 3,
             "api": "csp_Upyunso",
             "searchable": 1,
@@ -1288,7 +1378,7 @@
         },
         {
             "key": "AliPS",
-            "name": "🐰云盘｜盘搜",
+            "name": "☁️云盘｜盘搜",
             "type": 3,
             "api": "csp_AliPS",
             "searchable": 1,
@@ -1298,7 +1388,7 @@
         },
         {
             "key": "Yisou",
-            "name": "🐰云盘｜易搜",
+            "name": "☁️云盘｜易搜",
             "type": 3,
             "api": "csp_Yisou",
             "searchable": 1,
@@ -1308,7 +1398,7 @@
         },
         {
             "key": "夸克玩偶弹幕",
-            "name": "🐰夸克｜玩偶",
+            "name": "📡夸克｜玩偶",
             "type": 3,
             "api": "csp_Wobg",
             "searchable": 1,
@@ -1324,7 +1414,7 @@
         },
         {
             "key": "夸克土豆弹幕",
-            "name": "🐰夸克｜土豆",
+            "name": "📡夸克｜土豆",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -1340,7 +1430,7 @@
         },
         {
             "key": "夸克多多弹幕",
-            "name": "🐰夸克｜多多",
+            "name": "📡夸克｜多多",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -1356,7 +1446,7 @@
         },
         {
             "key": "夸克团长弹幕",
-            "name": "🐰夸克｜团长",
+            "name": "📡夸克｜团长",
             "type": 3,
             "api": "csp_Tzfile",
             "searchable": 1,
@@ -1371,7 +1461,7 @@
         },
         {
             "key": "夸克盘搜弹幕",
-            "name": "🐰夸克｜盘搜",
+            "name": "📡夸克｜盘搜",
             "type": 3,
             "api": "csp_Qkpanso",
             "searchable": 1,
@@ -1385,7 +1475,7 @@
         },
         {
             "key": "夸克影搜弹幕",
-            "name": "🐰夸克｜影搜",
+            "name": "📡夸克｜影搜",
             "type": 3,
             "api": "csp_Yingso",
             "searchable": 1,
@@ -1400,7 +1490,7 @@
         },
         {
             "key": "夸克趣盘搜弹幕",
-            "name": "🐰夸克｜趣盘搜",
+            "name": "📡夸克｜趣盘搜",
             "type": 3,
             "api": "csp_QuPanSou",
             "searchable": 1,
@@ -1415,7 +1505,7 @@
         },
         {
             "key": "夸克爱盘搜弹幕",
-            "name": "🐰夸克｜爱盘搜",
+            "name": "📡夸克｜爱盘搜",
             "type": 3,
             "api": "csp_AiPanSou",
             "searchable": 1,
@@ -1430,7 +1520,7 @@
         },
         {
             "key": "push_agent",
-            "name": "🐰推送",
+            "name": "📡推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
