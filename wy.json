@@ -67,7 +67,7 @@
 			"changeable": 0,
 			"jar": "https://vip.123pan.cn/1829447248/fx/pg.jar",
 			"ext":{
-				"json":"https://raw.githubusercontent.com/tushen6/lib/main/youtube.json",
+				"json":"https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/youtube.json",
 				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
 				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
 				"codecs":"",
@@ -100,7 +100,7 @@
     "key":"央视剧场",
         "name":"💯央视剧场✅",
         "type":3,
-        "api": "https://raw.githubusercontent.com/tushen6/lib/main/央视剧场.js",
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/央视剧场.js",
         "searchable":1,
         "changeable":1, 
         "timeout": 10
@@ -830,8 +830,8 @@
             "key": "喵次元",
             "name": "😸喵次元",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/tushen6/JS/main/喵次元.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/喵次元.js"
         },
         {
             "key": "暮暮动漫",
@@ -851,28 +851,28 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/动漫巴士.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/动漫巴士.json"
         },
        {
             "key": "妮可动漫",
             "name": "👧🏻妮可动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/tushen6/JS/main/妮可动漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/妮可动漫.js"
         },
         {
             "key": "奇米动漫",
             "name": "🍄奇米动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/tushen6/JS/main/奇米动漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/奇米动漫.js"
         },
         {
             "key": "樱花动漫",
             "name": "🌸樱花动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/tushen6/JS/main/樱花动漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/樱花动漫.js"
         },
         {
             "key": "南瓜弹幕",
@@ -1235,7 +1235,7 @@
         },
         {
             "key": "我的阿里",
-            "name": "🐰我的｜阿里",
+            "name": "☁️我的｜阿里",
             "type": 3,
             "api": "csp_MyAli",
             "searchable": 0,
@@ -1251,7 +1251,7 @@
         },
         {
             "key": "阿里合集",
-            "name": "阿里｜合集",
+            "name": "☁️阿里｜合集",
             "type": 3,
             "api": "csp_AliShare",
             "searchable": 1,
@@ -1259,7 +1259,7 @@
             "filterable": 0,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "share": "https://raw.githubusercontent.com/tushen6/JS/main/alishare.txt"
+                "share": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/alishare.txt"
             },
             "style": {
                 "type": "list"
@@ -1274,7 +1274,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/玩偶哥哥.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/玩偶哥哥.json"
         },
         {
             "key": "天天开心",
@@ -1284,7 +1284,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/天天开心.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/天天开心.json"
         },
         {
             "key": "土豆网盘",
@@ -1294,7 +1294,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/土豆网盘.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/土豆网盘.json"
         },
         {
             "key": "多多影音",
@@ -1304,7 +1304,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/多多影音.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/多多影音.json"
         },
         {
             "key": "云盘搜索",
@@ -1314,7 +1314,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/云盘搜索.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/云盘搜索.json"
         },
         {
             "key": "影搜",
@@ -1324,7 +1324,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/影搜.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/影搜.json"
         },
         {
             "key": "阿里苏苏",
@@ -1334,7 +1334,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/阿里苏苏.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/阿里苏苏.json"
         },
         {
             "key": "云盘论坛",
@@ -1344,7 +1344,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/云盘论坛.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/云盘论坛.json"
         },
         {
             "key": "云盘资源",
@@ -1354,7 +1354,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/tushen6/lib/main/云盘资源.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/云盘资源.json"
         },
          {
       "key": "小优玩我",
@@ -1364,7 +1364,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/tushen6/lib/main/kaixin.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/kaixin.json"
     },
         {
             "key": "Upyunso",
@@ -1797,7 +1797,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://vip.123pan.cn/1829447248/6134259",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/sword/jyr/zby.txt",
             "playerType": 1,
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         }
