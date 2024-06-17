@@ -152,6 +152,14 @@
             "quickSearch": 1,
             "filterable": 1
         },
+	     {
+            "key": "愉悦影视",
+            "name": "🐰愉悦影视",
+            "type": 3,
+            "api": "csp_Wexyuyueys",
+            "searchable": 1,
+            "changeable": 1
+        },
         {
             "key": "追剧影视",
             "name": "🐰追剧影视",
@@ -845,12 +853,26 @@
             "filterable": 0,
             "ext": "https://raw.githubusercontent.com/tushen6/lib/main/动漫巴士.json"
         },
+       {
+            "key": "妮可动漫",
+            "name": "👧🏻妮可动漫",
+            "type": 3,
+            "api": "https://gitee.com/shen_tu/jxy/raw/master/JS/drpy2.min.js",
+            "ext": "https://gitee.com/shen_tu/jxy/raw/master/JS/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"
+        },
+        {
+            "key": "奇米动漫",
+            "name": "🍄奇米动漫",
+            "type": 3,
+            "api": "https://gitee.com/shen_tu/jxy/raw/master/JS/drpy2.min.js",
+            "ext": "https://gitee.com/shen_tu/jxy/raw/master/JS/%E5%A5%87%E7%B1%B3%E5%8A%A8%E6%BC%AB.js"
+        },
         {
             "key": "樱花动漫",
-            "name": "🐰樱花动漫",
+            "name": "🌸樱花动漫",
             "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+            "api": "https://gitee.com/shen_tu/jxy/raw/master/JS/drpy2.min.js",
+            "ext": "https://gitee.com/shen_tu/jxy/raw/master/JS/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.js"
         },
         {
             "key": "南瓜弹幕",
