@@ -857,22 +857,22 @@
             "key": "妮可动漫",
             "name": "👧🏻妮可动漫",
             "type": 3,
-            "api": "https://gitee.com/shen_tu/jxy/raw/master/JS/drpy2.min.js",
-            "ext": "https://gitee.com/shen_tu/jxy/raw/master/JS/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"
+            "api": "https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/tushen6/JS/main/妮可动漫.js"
         },
         {
             "key": "奇米动漫",
             "name": "🍄奇米动漫",
             "type": 3,
-            "api": "https://gitee.com/shen_tu/jxy/raw/master/JS/drpy2.min.js",
-            "ext": "https://gitee.com/shen_tu/jxy/raw/master/JS/%E5%A5%87%E7%B1%B3%E5%8A%A8%E6%BC%AB.js"
+            "api": "https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/tushen6/JS/main/奇米动漫.js"
         },
         {
             "key": "樱花动漫",
             "name": "🌸樱花动漫",
             "type": 3,
-            "api": "https://gitee.com/shen_tu/jxy/raw/master/JS/drpy2.min.js",
-            "ext": "https://gitee.com/shen_tu/jxy/raw/master/JS/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.js"
+            "api": "https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/tushen6/JS/main/樱花动漫.js"
         },
         {
             "key": "南瓜弹幕",
