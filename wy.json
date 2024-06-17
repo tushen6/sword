@@ -368,7 +368,7 @@
             "changeable": 1,
             "ext": "https://v.aikanbot.com"
         },
-	     {
+	{
             "key": "花蕊影视",
             "name": "💯花蕊影视",
             "type": 3,
@@ -473,7 +473,7 @@
     },
     {
       "key": "csp_moxmi",
-      "name": "💢小优乐美",
+      "name": "💯小优乐美",
       "type": 1,
       "api": "http://mi.moxmi.top:81/api.php/provide/vod/?ac=list",
       "playUrl": "json:http://iid.moxmi.top:81/gg.php?url=",
@@ -490,7 +490,7 @@
     },
 	     {
             "key": "NO视频",
-            "name": "🐰NO视频",
+            "name": "💯NO视频",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "2",
