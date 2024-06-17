@@ -36,7 +36,7 @@
       "name": "阿里夸克┃配置中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://raw.githubusercontent.com/tushen6/lib/main/dongchenok.jar",
+      "jar": "https://vip.123pan.cn/1829447248/6131635",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -100,7 +100,7 @@
     "key":"央视剧场",
         "name":"💯央视剧场✅",
         "type":3,
-        "api": "https://raw.githubusercontent.com/tushen6/lib/main/央视剧场.js",
+        "api": "https://vip.123pan.cn/1829447248/6131628",
         "searchable":1,
         "changeable":1, 
         "timeout": 10
