@@ -364,7 +364,7 @@
         },
 	{
             "key": "花蕊影视",
-            "name": "💯花蕊影视",
+            "name": "💯小优花蕊",
             "type": 3,
             "api": "csp_Wexhuaruitv",
             "searchable": 1,
@@ -372,13 +372,13 @@
         },
         {
             "key": "甲子影视",
-            "name": "💯甲子影视",
+            "name": "💯小优甲子",
             "type": 3,
             "api": "csp_Wexjiazitv",
             "searchable": 1,
             "changeable": 1
         },
-	     {"key":"XBPQ_文才","name":"💯文才秒播","type":3,"api":"csp_XBPQ", "jar":"https://vip.123pan.cn/1829447248/fx/XBPQ.jar",
+	     {"key":"XBPQ_文才","name":"💯小优文才","type":3,"api":"csp_XBPQ", "jar":"https://vip.123pan.cn/1829447248/fx/XBPQ.jar",
 			"ext":{
 				"滤词": "",
 				"直接播放": "0",
@@ -484,7 +484,7 @@
     },
 	     {
             "key": "NO视频",
-            "name": "💯NO视频",
+            "name": "💯小优NO影视",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "2",
@@ -501,7 +501,7 @@
                 "搜索url": "",
                 "嗅探词": ".m3u8#https://m3u.hw8.live/share/#index.m3u8",
                 "线路数组": "href=\"javascript:;\"&&</li>",
-                "线路标题": "✨神荼专享线路✨+class=\"v*\">&&</a[排序:线路2>>]",
+                "线路标题": "✨小优专享线路✨+class=\"v*\">&&</a[排序:线路2>>]",
                 "播放数组": "class=\"v*-div&&</div>",
                 "播放列表": "class=\"btn btn-primary btn-primary-ph&&</a",
                 "播放标题": ">&&</a",
