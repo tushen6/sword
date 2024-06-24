@@ -1,12 +1,12 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://127.0.0.1:9978/file/TVBox/wallpaper.jpg",
+    "wallpaper": "https://p0.meituan.net/csc/f0c778df53afd1afb8d61041275758ed166684.jpg",
     "logo": "https://p0.meituan.net/csc/25a849b93dc76e448783c2122309500a564569.gif",
-    "homeLogo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+    
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🛖林中小屋",
+            "name": "林中小屋🛖",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -22,7 +22,7 @@
         },
         {
             "key": "云盘登录",
-            "name": "云盘登录",
+            "name": "💭云盘登录",
             "type": 3,
             "api": "csp_AliYunPan",
             "searchable": 0,
@@ -33,7 +33,7 @@
         },
 	      {
       "key": "配置中心ok",
-      "name": "阿里夸克┃配置中心",
+      "name": "🌐阿里夸克┃配置中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "https://vip.123pan.cn/1829447248/6131635",
@@ -46,7 +46,7 @@
     },
         {
             "key": "配置中心",
-            "name": "配置中心",
+            "name": "🌐配置中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -68,7 +68,7 @@
         },
         {
             "key": "韩小圈",
-            "name": "💯韩小圈",
+            "name": "⭕韩小圈",
             "type": 3,
             "api": "csp_HanXiaoQuan",
             "searchable": 1,
