@@ -352,16 +352,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {
-            "key": "米米影视",
-            "name": "💯米米丨影视",
-            "type": 3,
-            "api": "csp_WebDM",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        
+
         {
             "key": "视频库",
             "name": "💯视频库",
