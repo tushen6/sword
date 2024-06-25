@@ -1,7 +1,8 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "https://p0.meituan.net/csc/f0c778df53afd1afb8d61041275758ed166684.jpg",
+    "wallpaper": "http://127.0.0.1:9978/file/TVBox/wallpaper.jpg",
     "logo": "https://p0.meituan.net/csc/25a849b93dc76e448783c2122309500a564569.gif",
+    "homeLogo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     
     "sites": [
         {
