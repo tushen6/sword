@@ -112,6 +112,51 @@
             "api": "csp_AppYsV2",
             "ext": "https://www.zjtu.one/api.php/app/"
         },
+	    {
+            "key": "剧圈影视",
+            "name": "⭕剧圈丨影视",
+            "type": 3,
+            "api": "csp_Juqq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "可可影视",
+            "name": "💮可可丨影视",
+            "type": 3,
+            "api": "csp_Keke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key": "文才影视",
+            "name": "🌀文才丨影视",
+            "type": 3,
+            "api": "csp_Wexwencai",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "疯狗影视",
+            "name": "🐶疯狗丨影视",
+            "type": 3,
+            "api": "csp_FengGo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "采集之王",
+            "name": "♻️采集之王",
+            "type": 3,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "order_num": 142,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/采集之王.js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/采集静态.json"
+        },
         {
             "key": "热播影视",
             "name": "💯热播影视",
@@ -346,7 +391,7 @@
             "ext": "https://v.aikanbot.com"
         },
 	
-	     {"key":"XBPQ_文才","name":"💯文才秒播","type":3,"api":"csp_XBPQ", "jar":"https://vip.123pan.cn/1829447248/fx/XBPQ.jar",
+	     {"key":"XBPQ_文才","name":"💯文才影视","type":3,"api":"csp_XBPQ", "jar":"https://vip.123pan.cn/1829447248/fx/XBPQ.jar",
 			"ext":{
 				"滤词": "",
 				"直接播放": "0",
