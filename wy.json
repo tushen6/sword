@@ -1748,14 +1748,15 @@
         }
     ],
     "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/sword/jyr/zby.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-        }
-    ],
+    {
+      "name": "live",
+      "type": 0,
+      "playerType": 1,
+      "url": "./zby.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
     "flags": [
         "youku",
         "优酷",
