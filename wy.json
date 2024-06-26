@@ -995,22 +995,10 @@
             },
             "jar": "./danmu.jar"
         },
-        {
-            "key": "哔嘀弹幕",
-            "name": "📑弹幕｜哔嘀",
-            "type": 3,
-            "api": "csp_Bdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
+        
         {
             "key": "不太灵弹幕",
-            "name": "📑弹幕丨不太灵",
+            "name": "📑弹幕丨不太灵4K",
             "type": 3,
             "api": "csp_Bt0",
             "searchable": 1,
