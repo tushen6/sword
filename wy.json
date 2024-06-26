@@ -1759,22 +1759,13 @@
         }
     ],
     "lives": [
-    {
-	    "name":"神荼",
-	    "type":0,
-	    "url": "./zby.txt",
-	    "playerType":1,
-	    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-	    "logo":"https://epg.112114.xyz/logo/{name}.png"
-    },
-   {
-	   "name":"IPV6",
-	   "type":0,
-	   "url":"./zby.txt",
-	   "playerType":1,
-	   "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-	   "logo":"https://epg.112114.xyz/logo/{name}.png"
-   }
+     {
+            "name": "live",
+            "type": 0,
+            "url": "./zby.m3u",
+            "playerType": 1,
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+        }
   ],
     "flags": [
         "youku",
