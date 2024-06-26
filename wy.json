@@ -2,7 +2,7 @@
     "spider": "./spider.jar",
     "wallpaper": "http://127.0.0.1:9978/file/TVBox/wallpaper.jpg",
     "logo": "https://p0.meituan.net/csc/25a849b93dc76e448783c2122309500a564569.gif",
-    "homeLogo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+    
     
     "sites": [
         {
