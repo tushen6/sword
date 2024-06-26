@@ -1763,7 +1763,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "./zby.txt",
+      "url": "./zby.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
