@@ -89,7 +89,7 @@
         },
         {
             "key": "南瓜影视",
-            "name": "💯南瓜丨影视",
+            "name": "🎃南瓜丨影视",
             "type": 3,
             "api": "csp_WexNgys",
             "searchable": 1,
@@ -98,7 +98,7 @@
         },
         {
             "key": "天天影视",
-            "name": "💯天天丨影视",
+            "name": "✨天天丨影视",
             "type": 3,
             "api": "csp_AppTT",
             "searchable": 1,
@@ -107,14 +107,14 @@
         },
 	    {
             "key": "追剧兔",
-            "name": "💯追剧丨兔兔",
+            "name": "🐰追剧丨兔兔",
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "https://www.zjtu.one/api.php/app/"
         },
 	    {
             "key": "剧圈影视",
-            "name": "💯剧圈丨影视",
+            "name": ⭕剧圈丨影视",
             "type": 3,
             "api": "csp_Juqq",
             "searchable": 1,
@@ -123,7 +123,7 @@
         },
         {
             "key": "可可影视",
-            "name": "💯可可丨影视",
+            "name": "🍄可可丨影视",
             "type": 3,
             "api": "csp_Keke",
             "searchable": 1,
@@ -159,7 +159,7 @@
         },
         {
             "key": "热播影视",
-            "name": "💯热播丨影视",
+            "name": "🔥热播丨影视",
             "type": 3,
             "api": "csp_AppRB",
             "searchable": 1,
@@ -168,7 +168,7 @@
         },
 	     {
             "key": "愉悦影视",
-            "name": "💯愉悦丨影视",
+            "name": "🤗愉悦丨影视",
             "type": 3,
             "api": "csp_Wexyuyueys",
             "searchable": 1,
@@ -176,7 +176,7 @@
         },
         {
             "key": "追剧影视",
-            "name": "💯追剧丨影视",
+            "name": "🥷🏿追剧丨影视",
             "type": 3,
             "api": "csp_AppZJ",
             "searchable": 1,
@@ -185,7 +185,7 @@
         },
         {
             "key": "厂长资源",
-            "name": "💯厂长丨资源",
+            "name": "📚厂长丨资源",
             "type": 3,
             "api": "csp_Czsapp",
             "searchable": 1,
@@ -196,7 +196,7 @@
        
         {
             "key": "低端影视",
-            "name": "💯低端丨影视",
+            "name": "💢低端丨影视",
             "type": 3,
             "api": "csp_Ddys",
             "searchable": 1,
@@ -205,7 +205,7 @@
         },
         {
             "key": "快看影视",
-            "name": "💯快看丨影视",
+            "name": "👀快看丨影视",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -214,7 +214,7 @@
         },
         {
             "key": "兄弟影视",
-            "name": "💯兄弟丨影视",
+            "name": "👬兄弟丨影视",
             "type": 3,
             "api": "csp_Wexxiongdiys",
             "searchable": 1,
@@ -230,7 +230,7 @@
         },
         {
             "key": "明日影视",
-            "name": "💯明日丨影视",
+            "name": "🌞明日丨影视",
             "type": 3,
             "api": "csp_WexMingriys",
             "searchable": 1,
@@ -238,7 +238,7 @@
         },
         {
             "key": "腐剧视频",
-            "name": "💯腐剧丨视频",
+            "name": "🦠腐剧丨视频",
             "type": 3,
             "api": "csp_WexFujutv",
             "searchable": 1,
@@ -246,7 +246,7 @@
         },
         {
             "key": "地瓜影视",
-            "name": "💯地瓜丨影视",
+            "name": "🍠地瓜丨影视",
             "type": 3,
             "api": "csp_Wexdiguatv",
             "searchable": 1,
@@ -286,7 +286,7 @@
         },
         {
             "key": "利播影视",
-            "name": "💯利播丨影视",
+            "name": "🍀利播丨影视",
             "type": 3,
             "api": "csp_Wexlibhd",
             "searchable": 1,
@@ -294,7 +294,7 @@
         },
         {
             "key": "纯享影视",
-            "name": "💯纯享丨影视",
+            "name": "🏵️纯享丨影视",
             "type": 3,
             "api": "csp_WexF4kvm",
             "searchable": 1,
@@ -302,7 +302,7 @@
         },
         {
             "key": "两个磁力",
-            "name": "💯两个丨磁力",
+            "name": "🌿两个丨磁力",
             "type": 3,
             "api": "csp_Wexbttwo",
             "searchable": 1,
@@ -318,7 +318,7 @@
         },
         {
             "key": "在线之家",
-            "name": "💯在线丨之家",
+            "name": "🏠在线丨之家",
             "type": 3,
             "api": "csp_Wexzxzj",
             "searchable": 1,
@@ -327,7 +327,7 @@
         
         {
             "key": "耐看影视",
-            "name": "💯耐看丨影视",
+            "name": "👁️耐看丨影视",
             "type": 3,
             "api": "csp_AppNK",
             "searchable": 1,
@@ -336,7 +336,7 @@
         },
         {
             "key": "圣城影视",
-            "name": "💯圣城丨影视",
+            "name": "🏙️圣城丨影视",
             "type": 3,
             "api": "csp_AppNK",
             "searchable": 1,
@@ -355,7 +355,7 @@
 
         {
             "key": "视频库",
-            "name": "💯视频库",
+            "name": "🎬视频库",
             "type": 3,
             "api": "csp_WebVidHub",
             "searchable": 1,
@@ -365,7 +365,7 @@
         },
         {
             "key": "素白白",
-            "name": "💯素白白",
+            "name": "💭素白白",
             "type": 3,
             "api": "csp_Subaibai",
             "searchable": 1,
@@ -382,7 +382,7 @@
             "ext": "https://v.aikanbot.com"
         },
 	
-	     {"key":"XBPQ_文才","name":"💯文才丨影视","type":3,"api":"csp_XBPQ", "jar":"https://vip.123pan.cn/1829447248/fx/XBPQ.jar",
+	     {"key":"XBPQ_文才","name":"🌐文才丨影视","type":3,"api":"csp_XBPQ", "jar":"https://vip.123pan.cn/1829447248/fx/XBPQ.jar",
 			"ext":{
 				"滤词": "",
 				"直接播放": "0",
@@ -430,7 +430,7 @@
 		},
 	     {
       "key": "xml_火狐",
-      "name": "️💯火狐丨蓝光",
+      "name": "️🦊火狐丨蓝光",
       "type": 1,
       "style": {
         "type": "rect",
@@ -471,7 +471,7 @@
     },
     {
       "key": "csp_moxmi",
-      "name": "💯乐美丨优享",
+      "name": "🦋乐美丨优享",
       "type": 1,
       "api": "http://mi.moxmi.top:81/api.php/provide/vod/?ac=list",
       "playUrl": "json:http://iid.moxmi.top:81/gg.php?url=",
@@ -488,7 +488,7 @@
     },
 	     {
             "key": "NO视频",
-            "name": "💯NO影视",
+            "name": "🚫NO影视",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "2",
@@ -516,7 +516,7 @@
         },
         {
             "key": "四九资源",
-            "name": "💯四九丨资源",
+            "name": "👿四九丨资源",
             "type": 1,
             "api": "https://49zyw.com/api.php/provide/vod/",
             "searchable": 1,
@@ -559,7 +559,7 @@
         },
         {
             "key": "红牛资源",
-            "name": "💯红牛丨资源",
+            "name": "🐮红牛丨资源",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
             "searchable": 1,
@@ -585,7 +585,7 @@
         },
         {
             "key": "光速资源",
-            "name": "💯光速丨资源",
+            "name": "🚀光速丨资源",
             "type": 1,
             "api": "http://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -613,7 +613,7 @@
         },
         {
             "key": "极速资源",
-            "name": "💯极速丨资源",
+            "name": "✈️极速丨资源",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -645,7 +645,7 @@
         },
         {
             "key": "快车资源",
-            "name": "💯快车丨资源",
+            "name": "🚅快车丨资源",
             "type": 1,
             "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -679,7 +679,7 @@
         },
         {
             "key": "索尼资源",
-            "name": "💯索尼丨资源",
+            "name": "🚇索尼丨资源",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -715,7 +715,7 @@
         },
         {
             "key": "量子资源",
-            "name": "💯量子丨资源",
+            "name": "🛸量子丨资源",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -750,7 +750,7 @@
         },
         {
             "key": "非凡资源",
-            "name": "💯非凡丨资源",
+            "name": "🪐非凡丨资源",
             "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "searchable": 1,
