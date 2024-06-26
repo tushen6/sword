@@ -1776,7 +1776,7 @@
    {
 	   "name":"IPV6",
 	   "type":0,
-	   "url":"./zby.txt"，
+	   "url":"./zby.txt",
 	   "playerType":1,
 	   "epg":"http://epg.112114.xyz/?ch={name}&date={date}"，
 	   "logo":"https://epg.112114.xyz/logo/{name}.png"
