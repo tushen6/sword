@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="http://127.0.0.1/diyp/epg.php"
-#EXTINF:-1 tvg-id="" tvg-name="打开VX小程序“纷传”搜索“软件分享阁”" tvg-logo="" group-title="📚软件分享阁📚",①打开VX小程序“纷传”搜索“软件分享阁”
+#EXTINF:-1 tvg-id="" tvg-name="①打开VX小程序“纷传”搜索“软件分享阁”" tvg-logo="" group-title="📚软件分享阁📚",①打开VX小程序“纷传”搜索“软件分享阁”
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="打开VX小程序“纷传”搜索“软件分享阁”" tvg-logo="" group-title="📚软件分享阁📚",②打开VX小程序“纷传”搜索“软件分享阁”
-http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="打开VX小程序“纷传”搜索“软件分享阁”" tvg-logo="" group-title="📚软件分享阁📚",③打开VX小程序“纷传”搜索“软件分享阁”
-http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="②打开VX小程序“纷传”搜索“软件分享阁”" tvg-logo="" group-title="📚软件分享阁📚",②打开VX小程序“纷传”搜索“软件分享阁”
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="③打开VX小程序“纷传”搜索“软件分享阁”" tvg-logo="" group-title="📚软件分享阁📚",③打开VX小程序“纷传”搜索“软件分享阁”
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="🎬央视频道",CCTV-1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="🎬央视频道",CCTV-2财经
