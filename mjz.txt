@@ -1,9 +1,8 @@
 📚软件分享阁📚,#genre#
-打开VX小程序“纷传”搜索“软件分享阁”,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+①打开VX小程序“纷传”搜索“软件分享阁”,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+②打开VX小程序“纷传”搜索“软件分享阁”,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+③打开VX小程序“纷传”搜索“软件分享阁”,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 🌐央视频道,#genre#
-CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV1 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
 CCTV1 4.8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227641/index.m3u8
 CCTV1 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8
@@ -322,6 +321,9 @@ CCTV8K超高清,http://mtw.so/62HqYI#https://tv.cry33.com/ys4k.php?id=8k#https:/
 CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8#http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd#http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8#http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8#http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.flv#http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8?zjiangsd#http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
+CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 北京纪实科技8K,https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
 绚影4K,http://183.222.206.14:8096/udp/239.93.42.33:5140
 🌐NewTV频道,#genre#
