@@ -7,7 +7,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "林中小屋🛖",
+            "name": "🏠林中小屋🏠",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -83,14 +83,14 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {
-            "key": "天天影视",
-            "name": "✨天天丨影视",
+     {
+            "key": "看看影视",
+            "name": "🏄🏻‍♀️看看丨影视",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_WebIV",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
 	    {
             "key": "追剧兔",
@@ -143,6 +143,15 @@
             "quickSearch": 1,
             "order_num": 142,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/采集之王.js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/采集静态.json"
+        },
+	       {
+            "key": "天天影视",
+            "name": "✨天天丨影视",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "热播影视",
@@ -330,16 +339,6 @@
             "changeable": 1,
             "ext": "mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
         },
-        {
-            "key": "看看影视",
-            "name": "💯看看丨影视",
-            "type": 3,
-            "api": "csp_WebIV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-
         {
             "key": "视频库",
             "name": "🎬视频库",
