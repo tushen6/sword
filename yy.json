@@ -334,7 +334,7 @@
             "ext": "https://v.aikanbot.com"
         },
 	
-	     {"key":"XBPQ_文才","name":"🌐文才丨影视","type":3,"api":"csp_XBPQ", "jar":"https://vip.123pan.cn/1829447248/fx/XBPQ.jar",
+	     {"key":"XBPQ_文才","name":"🌐文才丨自建","type":3,"api":"csp_XBPQ", "jar":"https://vip.123pan.cn/1829447248/fx/XBPQ.jar",
 			"ext":{
 				"滤词": "",
 				"直接播放": "0",
@@ -352,7 +352,7 @@
 				"链接": "https://m.cfkj86.com/detail/+vod_id\":&&,",
 				"线路二次截取":"",
 				"线路数组":"span class=\"label\">&&/span>",
-				"线路标题":"神荼专用线路",
+				"线路标题":"软件分享阁",
 				"播放数组":"episodeList\":\\[&&\\][替换:nid\":>>nid\":/1/]",
 				"播放列表":"{&&}",
 				"播放标题":"name\":\"&&\"",
@@ -423,7 +423,7 @@
     },
     {
       "key": "csp_moxmi",
-      "name": "🦋乐美丨优享",
+      "name": "⚛️乐美丨优享",
       "type": 1,
       "api": "http://mi.moxmi.top:81/api.php/provide/vod/?ac=list",
       "playUrl": "json:http://iid.moxmi.top:81/gg.php?url=",
@@ -440,7 +440,7 @@
     },
 	     {
             "key": "NO视频",
-            "name": "🚫NO影视",
+            "name": "💯NO丨影视",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "2",
@@ -457,7 +457,7 @@
                 "搜索url": "",
                 "嗅探词": ".m3u8#https://m3u.hw8.live/share/#index.m3u8",
                 "线路数组": "href=\"javascript:;\"&&</li>",
-                "线路标题": "✨神荼专享线路✨+class=\"v*\">&&</a[排序:线路2>>]",
+                "线路标题": "✨软件分享阁✨+class=\"v*\">&&</a[排序:线路2>>]",
                 "播放数组": "class=\"v*-div&&</div>",
                 "播放列表": "class=\"btn btn-primary btn-primary-ph&&</a",
                 "播放标题": ">&&</a",
