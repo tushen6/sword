@@ -162,7 +162,21 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+{
+            "key": "映播XBPQ",
+            "name": "🔴映播┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "数组": "public-list-box&&</div>",
+                "图片": "data-original=\"&&\"",
+                "搜索url": "https://www.ingbo.tv/search/1/?keyword={wd}",
+                "播放数组": "class=\"anthology-list-play&&</div>",
+                "线路数组": "title=&&</a>[排序:映播六线>映播三线>映播四线>映播五线>映播二线>映播-线>腾讯>芒果>B站]",
+                "分类url": "https://www.ingbo.tv/vod/list/{catePg}/{cateId}/{class}/{year}/{area}/0/0/0",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            }
+        },
         {
             "key": "追剧影视",
             "name": "🥷🏿追剧丨影视",
