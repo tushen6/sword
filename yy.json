@@ -207,14 +207,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "兄弟影视",
-            "name": "👬兄弟丨影视",
-            "type": 3,
-            "api": "csp_Wexxiongdiys",
-            "searchable": 1,
-            "changeable": 1
-        },
+        
         {
             "key": "酷看影视",
             "name": "💯酷看丨影视",
