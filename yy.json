@@ -162,14 +162,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	     {
-            "key": "愉悦影视",
-            "name": "🤗愉悦丨影视",
-            "type": 3,
-            "api": "csp_Wexyuyueys",
-            "searchable": 1,
-            "changeable": 1
-        },
+
         {
             "key": "追剧影视",
             "name": "🥷🏿追剧丨影视",
