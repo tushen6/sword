@@ -75,15 +75,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
-     {
-            "key": "看看影视",
-            "name": "🏄🏻‍♀️看看丨影视",
-            "type": 3,
-            "api": "csp_WebIV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+    
 	    {
             "key": "追剧兔",
             "name": "🐰追剧丨兔兔",
@@ -318,7 +310,15 @@
             "changeable": 1,
             "ext": "https://v.aikanbot.com"
         },
-	
+	 {
+            "key": "看看影视",
+            "name": "🏄🏻‍♀️看看丨影视",
+            "type": 3,
+            "api": "csp_WebIV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
 	     {"key":"XBPQ_文才","name":"🌐文才丨自建","type":3,"api":"csp_XBPQ", "jar":"https://vip.123pan.cn/1829447248/fx/XBPQ.jar",
 			"ext":{
 				"滤词": "",
