@@ -375,6 +375,126 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd#http://liv
 https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="绚影4K" tvg-logo="" group-title="🎬4K频道",绚影4K
 http://183.222.206.14:8096/udp/239.93.42.33:5140
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="海外",CNN
+https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="" group-title="海外",BBC
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="" group-title="海外",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC" tvg-logo="" group-title="海外",NBC
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="海外",FOX
+https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOA" tvg-logo="" group-title="海外",VOA
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKYNEWS" tvg-logo="" group-title="海外",SKYNEWS
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WIONNEWS" tvg-logo="" group-title="海外",WIONNEWS
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCRIPPS NEWS" tvg-logo="" group-title="海外",SCRIPPS NEWS
+https://i.mjh.nz/SamsungTVPlus/USBD3000073N.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV NOW" tvg-logo="" group-title="海外",AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWSMAX" tvg-logo="" group-title="海外",NEWSMAX
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBN NEWS" tvg-logo="" group-title="海外",CBN NEWS
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GB NEWS" tvg-logo="" group-title="海外",GB NEWS
+https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT NEWS" tvg-logo="" group-title="海外",RT NEWS
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI ONE" tvg-logo="" group-title="海外",DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFRICA NEWS" tvg-logo="" group-title="海外",AFRICA NEWS
+https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="" group-title="海外",AL JAZEERA
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="" group-title="海外",ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG ORIGINALS" tvg-logo="" group-title="海外",BLOOMBERG ORIGINALS
+https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ION PLUS" tvg-logo="" group-title="海外",ION PLUS
+https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ION" tvg-logo="" group-title="海外",ION
+https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEVO POP" tvg-logo="" group-title="海外",VEVO POP
+https://i.mjh.nz/SamsungTVPlus/GBBC19000017V.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="" group-title="海外",LOVE NATURE
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="" group-title="海外",FASHION TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK" tvg-logo="" group-title="海外",FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WILD EARTH" tvg-logo="" group-title="海外",WILD EARTH
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XPLORE" tvg-logo="" group-title="海外",XPLORE
+https://i.mjh.nz/SamsungTVPlus/USBC2100008DP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLARITY 4K" tvg-logo="" group-title="海外",CLARITY 4K
+https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="" group-title="海外",FIFA+
+https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STADIUM" tvg-logo="" group-title="海外",STADIUM
+https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORTS" tvg-logo="" group-title="海外",TRACE SPORTS
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSGRID" tvg-logo="" group-title="海外",SPORTSGRID
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POP" tvg-logo="" group-title="海外",POP
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+#EXTINF:-1 tvg-id="" tvg-name="TASTEMADE" tvg-logo="" group-title="海外",TASTEMADE
+https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVIESPHERE" tvg-logo="" group-title="海外",MOVIESPHERE
+https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE LEGO CHANNEL" tvg-logo="" group-title="海外",THE LEGO CHANNEL
+https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT DOCUMENTARY" tvg-logo="" group-title="海外",RT DOCUMENTARY
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAIWAN PLUS" tvg-logo="" group-title="海外",TAIWAN PLUS
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYDYNAMICS" tvg-logo="" group-title="海外",COMEDYDYNAMICS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="" group-title="海外",BBC EARTH
+https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="海外",HISTORY
+https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TED TALKS" tvg-logo="" group-title="海外",TED TALKS
+https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="" group-title="海外",KIDS TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYTIME" tvg-logo="" group-title="海外",MYTIME
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSEUM" tvg-logo="" group-title="海外",MUSEUM
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOVESTORIES" tvg-logo="" group-title="海外",LOVESTORIES
+https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="" group-title="海外",TRAVEL XP
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONDEMAND CHINA" tvg-logo="" group-title="海外",ONDEMAND CHINA
+https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YUGIOH" tvg-logo="" group-title="海外",YU-GI-OH
+https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YOUNG HOLLYWOOD" tvg-logo="" group-title="海外",YOUNG HOLLYWOOD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD" tvg-logo="" group-title="海外",FOOD
+https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEW KPOP" tvg-logo="" group-title="海外",NEW KPOP
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BILLIARDS TV" tvg-logo="" group-title="海外",BILLIARDS TV
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LA LIFE" tvg-logo="" group-title="海外",LA LA LIFE
+https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN VIKI" tvg-logo="" group-title="海外",RAKUTEN VIKI
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN COMEDY" tvg-logo="" group-title="海外",RAKUTEN COMEDY
+https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION" tvg-logo="" group-title="海外",RAKUTEN ACTION
+https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN THRILLER" tvg-logo="" group-title="海外",RAKUTEN THRILLER
+https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN BRITISH FILMS" tvg-logo="" group-title="海外",RAKUTEN BRITISH FILMS
+https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL FASHION CHANNEL" tvg-logo="" group-title="海外",GLOBAL FASHION CHANNEL
+https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="春晚83" tvg-logo="" group-title="💿历年春晚",春晚83
 http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="春晚84" tvg-logo="" group-title="💿历年春晚",春晚84
