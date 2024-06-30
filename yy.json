@@ -892,14 +892,14 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./XPath/音范丝.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/音范丝.json"
         },
         {
             "key": "磁力熊",
             "name": "🧲磁力｜磁力熊",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/磁力熊.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/JS/main/磁力熊.js"
         },
         {
             "key": "美剧迷",
@@ -927,7 +927,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/电影港.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/电影港.json"
         },
         {
             "key": "好恐怖",
@@ -937,7 +937,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/好恐怖.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/好恐怖.json"
         },
         {
             "key": "小白网",
@@ -948,7 +948,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/小白网.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/小白网.json"
         },
         {
             "key": "布谷TV",
@@ -958,7 +958,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/布谷TV.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/布谷TV.json"
         },
         {
             "key": "BT天堂",
@@ -968,7 +968,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/BT天堂.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/BT天堂.json"
         },
         {
             "key": "Mp4电影",
@@ -988,7 +988,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/哔嘀影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/哔嘀影视.json"
         },
         {
             "key": "酷吧电影",
