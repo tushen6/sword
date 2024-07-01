@@ -1563,7 +1563,7 @@
      {
             "name": "软件分享阁",
             "type": 0,
-            "url": "./zby.m3u",
+            "url": "./zby.txt",
             "playerType": 1,
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         }
