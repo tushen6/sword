@@ -1563,7 +1563,7 @@
      {
             "name": "软件分享阁",
             "type": 0,
-            "url": "./zby.txt",
+            "url": "./软件分享阁.txt",
             "playerType": 1,
             "epg": "./EPG.xml"
         }
