@@ -1565,7 +1565,7 @@
             "type": 0,
             "url": "./zby.txt",
             "playerType": 1,
-            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+            "epg": "./EPG.xml"
         }
   ],
     "flags": [
